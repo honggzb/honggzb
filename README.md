@@ -32,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![chakraUI](https://img.shields.io/badge/-chakraUI-02ad9c?style=flat&logo=chakraUI)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
-![AngularMaterial](https://img.shields.io/badge/-Angular%20Material-red?style=flat&logo=AngularMaterial)
+![AngularMaterial](https://img.shields.io/badge/-Angular%20Material-blue?style=flat&logo=AngularMaterial)
 ![D3JS](https://img.shields.io/badge/-D3JS-FCA121?style=flat&logo=D3JS)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextj)
