@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hong Qian</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Front End developer</h3>
+<h3 align="center">A passionate Front End/UI developer</h3>
 
 
 <a target="_blank" align="center">
@@ -12,7 +12,7 @@
 
 - ✍️ A Self-taught Front-end developer
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 In my free time, I pursue cutting-edge technologies as hobbies/side hustles.
+- 🌱 In my free time, I pursue 3D graphics, AI and other cutting-edge technologies as hobbies/side hustles.
 - 📫 Personal website [link](https://my-portofolio-visualization.vercel.app/)
 - ✉️ You can shoot me an <a href="mailto:honggzb@gmail.com" target="_blank">email</a> ! I'll try to respond as soon as I can.
 
