@@ -14,7 +14,7 @@
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 In my free time, I pursue cutting-edge technologies as hobbies/side hustles.
 - 📫 Personal website [link](https://my-portofolio-visualization.vercel.app/)
-- ✉️ You can shoot me an email at honggzb@gmail.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an <a href="mailto:honggzb@gmail.com" target="_blank">email</a> ! I'll try to respond as soon as I can.
 
 <br><br>
 
