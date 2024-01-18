@@ -19,7 +19,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+- 🌐![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescrip)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,6 +31,11 @@
 ![AngularMaterial](https://img.shields.io/badge/-Angular%20Material-blue?style=flat&logo=AngularMaterial)
 ![D3JS](https://img.shields.io/badge/-D3JS-FCA121?style=flat&logo=D3JS)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+- 🛢
+- ⚙️
+- 🔧
+- 🖥 
+
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextj)
 ![Vite](https://img.shields.io/badge/-Vite-56ccf2?style=flat&logo=Vite)
 ![Jest](https://img.shields.io/badge/-Jest-green?style=flat&logo=Jest)
