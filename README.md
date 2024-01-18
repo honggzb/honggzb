@@ -51,11 +51,7 @@
 - 🖥 ![Jest](https://img.shields.io/badge/-Jest-green?style=flat&logo=Jest)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-gray?style=flat&logo=Jasmine)
 ![Cypress](https://img.shields.io/badge/-Cypress-11998e?style=flat&logo=Cypress)
-
-
-
-
-![RESTful](https://img.shields.io/badge/-RESTful-2f80ed?style=flat&logo=RESTful)
+- 〽️ ![RESTful](https://img.shields.io/badge/-RESTful-2f80ed?style=flat&logo=RESTful)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-ec008c?style=flat&logo=GraphQL)
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)
 ![WCAG2.x](https://img.shields.io/badge/-WCAG2.x%20-bf61ff?style=flat&logo=WCAG%202.x)
