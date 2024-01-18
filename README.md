@@ -47,6 +47,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![gitlab](https://img.shields.io/badge/gitlab-white?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins)
 ![bitbucket](https://img.shields.io/badge/-bitbucket-blue?style=flat&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-blue?style=flat&logo=JIRA)
