@@ -1,4 +1,4 @@
-
+]]]
 <h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hong(Joanna) Qian</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Front End/UI developer</h3>
 
@@ -64,9 +64,9 @@
 
 ## Contact me
 
-<a href="https://twitter.com/honggzb" target="_blank"><img src="https://img.shields.io/badge/twitter-%20skyblue?style=flat&logo=twitter" /></a>
+<a href="https://twitter.com/honggzb" target="_blank"><img src="https://img.shields.io/badge/twitter-%20skyblue?style=flat&logo=twitter" />
 
-<a href="https://github.com/honggzb" target="_blank"><img src="https://img.shields.io/badge/github-%20black?style=flat&logo=github" /></a>
+<a href="https://github.com/honggzb" target="_blank"><img src="https://img.shields.io/badge/github-%20black?style=flat&logo=github" />
 
-<a href="mailto:honggzb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-rgb(241%2C%20131%2C%20131)?style=flat&logo=gmail" /><a/>
+<a href="mailto:honggzb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-rgb(241%2C%20131%2C%20131)?style=flat&logo=gmail" />]
   
