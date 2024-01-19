@@ -46,6 +46,7 @@
 ![bitbucket](https://img.shields.io/badge/-bitbucket-blue?style=flat&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-blue?style=flat&logo=JIRA)
 - 🔧 ![Vite](https://img.shields.io/badge/-Vite-56ccf2?style=flat&logo=Vite)
+![Gulp](https://img.shields.io/badge/Gulp-red?style=flat)
 ![Grunt](https://img.shields.io/badge/Grunt-yellow?style=flat&logo=Grunt)
 ![webpack](https://img.shields.io/badge/webpack-white?style=flat&logo=webpack)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextj)
