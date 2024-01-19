@@ -14,7 +14,7 @@
 - 📫 Personal website [link](https://my-portofolio-visualization.vercel.app/)
 - ✉️ You can shoot me an <a href="mailto:honggzb@gmail.com" target="_blank">email</a> ! I'll try to respond as soon as I can.
 
-<br><br>
+<br><br><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
@@ -60,7 +60,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JWT)
 ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-rgb(171%2C%20179%2C%20255)?logo=OAuth)
 
-
+<br><br><br><br>
 
 ## Contact me
 
