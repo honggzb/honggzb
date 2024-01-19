@@ -64,11 +64,11 @@
 
 ## Contact me
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
+<a href="https://twitter.com/honggzb" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%20skyblue?style=flat&logo=twitter style="margin-bottom: 5px;" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<a href="https://github.com/honggzb" target="_blank">
 <img src=https://img.shields.io/badge/github-%20black?style=flat&logo=github style="margin-bottom: 5px;" />
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
+<a href="mailto:honggzb@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-rgb(241%2C%20131%2C%20131)?style=flat&logo=gmail style="margin-bottom: 5px;" />
