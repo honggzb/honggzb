@@ -65,7 +65,7 @@
 ## Contact me
 
 <a href="https://twitter.com/honggzb" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter" />
 <img src="https://img.shields.io/badge/twitter-%20skyblue?style=flat&logo=twitter" />
 
 <a href="https://github.com/honggzb" target="_blank">
