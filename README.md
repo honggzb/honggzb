@@ -40,6 +40,7 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-white?style=flat&logo=JAVA)
 - 🛢 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-rgb(173%2C%20216%2C%20243)?logo=MySQL)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-grey?style=flat&logo=SQL%20Server)
 - ⚙️ ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![gitlab](https://img.shields.io/badge/gitlab-white?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins)
