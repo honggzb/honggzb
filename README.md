@@ -32,6 +32,7 @@
 ![D3JS](https://img.shields.io/badge/-D3JS-FCA121?style=flat&logo=D3JS)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-gray?style=flat&logo=react-three%2Ffiber)
+![GSAP](https://img.shields.io/badge/GSAP-black?style=flat)
 ![framer motion](https://img.shields.io/badge/-framer%20motion-yellow?style=flat&logo=framer%20motion)
 ![ThreeJS](https://img.shields.io/badge/-ThreeJS-blue?style=flat&logo=Threejs)
 ![WebGL](https://img.shields.io/badge/-WebGL-red?logo=WebGL)
