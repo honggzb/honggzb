@@ -20,7 +20,7 @@
 <br>
 
 - 🌐 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Static Badge](https://img.shields.io/badge/Typescript-skyblue?style=flat&logo=typescript)
+![typescript](https://img.shields.io/badge/Typescript-skyblue?style=flat&logo=typescript)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -31,9 +31,10 @@
 ![framer motion](https://img.shields.io/badge/-framer%20motion-yellow?style=flat&logo=framer%20motion)
 - ♨️ ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 ![AngularMaterial](https://img.shields.io/badge/-Angular%20Material-blue?style=flat&logo=AngularMaterial)
-![D3JS](https://img.shields.io/badge/-D3JS-FCA121?style=flat&logo=D3JS)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/Vue-rgb(66%2C%20184%2C%20131)?style=flat&logo=vue)
 ![Storybook](https://img.shields.io/badge/Storybook-red?style=flat)
+![D3JS](https://img.shields.io/badge/-D3JS-FCA121?style=flat&logo=D3JS)
 ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-gray?style=flat&logo=react-three%2Ffiber)
 ![ThreeJS](https://img.shields.io/badge/-ThreeJS-blue?style=flat&logo=Threejs)
 ![WebGL](https://img.shields.io/badge/-WebGL-red?logo=WebGL)
