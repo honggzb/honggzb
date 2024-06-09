@@ -20,7 +20,7 @@
 <br>
 
 - 🌐 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescrip)
+![Static Badge](https://img.shields.io/badge/Typescript-skyblue?style=flat&logo=typescript)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
