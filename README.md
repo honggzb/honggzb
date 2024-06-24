@@ -54,6 +54,7 @@
 ![Grunt](https://img.shields.io/badge/Grunt-yellow?style=flat&logo=Grunt)
 ![webpack](https://img.shields.io/badge/webpack-white?style=flat&logo=webpack)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextj)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-white?style=plastic&logo=NuxtJS)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 - 🖥 ![Jest](https://img.shields.io/badge/-Jest-green?style=flat&logo=Jest)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-gray?style=flat&logo=Jasmine)
