@@ -56,6 +56,7 @@
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextj)
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-white?style=plastic&logo=NuxtJS)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Axios](https://img.shields.io/badge/Axios-%23671ddf?style=plastic&logo=Axios)
 - 🖥 ![Jest](https://img.shields.io/badge/-Jest-green?style=flat&logo=Jest)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-gray?style=flat&logo=Jasmine)
 ![Cypress](https://img.shields.io/badge/-Cypress-11998e?style=flat&logo=Cypress)
