@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/honggzb/Study-General/blob/master/aboutMe.gif" width = 50px></picture> **About me**
 
 - ✍️ A Self-taught Front-end developer
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
