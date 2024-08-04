@@ -1,9 +1,9 @@
 
-<h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hong(Joanna) Qian</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Hong(Joanna) Qian</a> </b><img src="https://github.com/honggzb/Study-General/blob/master/hello.gif" width="35"></h1>
 <h3 align="center">A passionate Front End/UI developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/honggzb/Study-General/blob/master/working.gif">
 </a>
 
 ## <picture><img src="https://github.com/honggzb/Study-General/blob/master/aboutMe.gif" width=100px height=30px></picture>
