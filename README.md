@@ -26,7 +26,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat&logo=TailwindCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![chakraUI](https://img.shields.io/badge/-chakraUI-02ad9c?style=flat&logo=chakraUI)
 ![GSAP](https://img.shields.io/badge/GSAP-black?style=flat)
 ![framer motion](https://img.shields.io/badge/-framer%20motion-yellow?style=flat&logo=framer%20motion)
 - ♨️ ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
