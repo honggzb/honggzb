@@ -47,6 +47,7 @@
 ![gitlab](https://img.shields.io/badge/gitlab-white?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat&logo=Jenkins)
 ![bitbucket](https://img.shields.io/badge/-bitbucket-blue?style=flat&logo=bitbucket)
+![Azure DevOps builds](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId)
 ![JIRA](https://img.shields.io/badge/-JIRA-blue?style=flat&logo=JIRA)
 - 🔧 ![Vite](https://img.shields.io/badge/-Vite-56ccf2?style=flat&logo=Vite)
 ![Gulp](https://img.shields.io/badge/Gulp-red?style=flat)
